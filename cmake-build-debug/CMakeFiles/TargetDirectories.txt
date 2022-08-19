@@ -1,0 +1,3 @@
+/home/marc/CLionProjects/alsa_tests/cmake-build-debug/CMakeFiles/tests.dir
+/home/marc/CLionProjects/alsa_tests/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/marc/CLionProjects/alsa_tests/cmake-build-debug/CMakeFiles/rebuild_cache.dir

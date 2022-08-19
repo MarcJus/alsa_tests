@@ -1,0 +1,1 @@
+/usr/bin/gcc -g CMakeFiles/tests.dir/main.c.o -o tests  -lasound -ldl -lm 
